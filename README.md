@@ -1,5 +1,4 @@
-데이터 경로
-https://drive.google.com/drive/folders/13fEqufhtA9tHkkLzqsT-Bdb96AJAuB41?usp=sharing
+데이터 경로 : https://drive.google.com/drive/folders/13fEqufhtA9tHkkLzqsT-Bdb96AJAuB41?usp=sharing
 
 직선거리 데이터 : distance_df_
 
